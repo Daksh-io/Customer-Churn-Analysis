@@ -8,7 +8,6 @@ This repository contains:
 - `TCA.ipynb`: A Jupyter notebook performing end-to-end churn analysis using the **Telco Customer Churn** dataset
 - `Teco Customer Churn Analysis.pdf`: A report summarizing findings and visuals
 - `Telco-Customer-Churn.csv.csv`: The raw dataset (7043 records, 21 features)
-- *(Optional)* A Power BI dashboard export (if included)
 
 ## 🎯 Objectives
 
@@ -27,7 +26,6 @@ This project aims to:
 | `Telco-Customer-Churn.csv.csv`   | Original customer churn dataset |
 | `TCA.ipynb`                       | Jupyter notebook for analysis, model training & evaluation |
 | `Teco Customer Churn Analysis.pdf` | Report summarizing key findings |
-| *(Optional)* `Customer Churn Dashboard.pbix` | Power BI dashboard file |
 
 ## 📊 Dataset Overview
 
